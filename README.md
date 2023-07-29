@@ -8,6 +8,7 @@ sono diverse. Inizialmente, l'idea è quella di sviluppare
 un'applicazione in grado di gestire due tipologie di utenti:
 1. Clienti
 2. Conducenti
+
 La gestione di questi due gruppi di utenti consente di orientare
 l'attività di SPOSTAMI esclusivamente verso la creazione e il
 mantenimento dell'infrastruttura tecnologica, escludendo
