@@ -1,4 +1,4 @@
-# Esame-ProjectManagment
+# Esame-ProjectManagement
 Esempio di gestione di un progetto IT costituito da una relazione esplicativa dei vari passaggi per la sua realizzazione
 
 SPOSTAMI è un'applicazione mobile focalizzata che nasce con
